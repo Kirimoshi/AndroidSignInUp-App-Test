@@ -50,5 +50,4 @@ class MainActivity : AppCompatActivity() {
     }
 
     //bindingClass.imAvatar.visibility = View.GONE
-    //bindingClass.tvInfo.visibility = View.GONE
 }
